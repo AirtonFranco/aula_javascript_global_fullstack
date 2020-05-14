@@ -54,11 +54,6 @@ for(count>0; count<= 5; count++){
 }*/
 
 //Imprimindo a data
-
-/*var d = new Date();
+var d = new Date();
 alert(d());
-alert(d.getHours());*/ //Nesse caso imprime apena a hora
-
-
-
-
+alert(d.getHours());
